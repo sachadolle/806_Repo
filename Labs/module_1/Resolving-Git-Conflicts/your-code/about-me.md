@@ -1,5 +1,5 @@
 # Who am I
-  I am Sacha
+  I am Sacha Dollé
 
 * Where are you from?
   I'm from a little city close to Rennes, in the west of France
